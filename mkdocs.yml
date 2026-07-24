@@ -13,7 +13,7 @@ theme:
     - navigation.indexes
 plugins:
   - blog
-  - optimize
+  - optimize:
       optimize: false
 markdown_extensions:
   - pymdownx.arithmatex:
