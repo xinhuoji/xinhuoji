@@ -3,6 +3,17 @@ site_url: https://xinhuoji.netlify.app/
 theme:
   name: material
   language: zh
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+plugins:
+  - blog
+  - optimize
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
