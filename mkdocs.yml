@@ -17,6 +17,7 @@ plugins:
       post_readtime: false
       archive: false
   - tags
+  - search
   - optimize:
       optimize: false
 markdown_extensions:
