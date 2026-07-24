@@ -14,6 +14,9 @@ theme:
 plugins:
   - blog:
       blog_dir: .
+      post_readtime: false
+      archive: false
+  - tags
   - optimize:
       optimize: false
 markdown_extensions:
