@@ -2,7 +2,6 @@ site_name: xinhuoji
 site_url: https://xinhuoji.netlify.app/
 theme:
   name: material
-  toggle_button: all
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
