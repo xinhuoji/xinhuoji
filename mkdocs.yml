@@ -19,7 +19,7 @@ plugins:
   - tags
   - search:
       lang: zh
-      jieba_dict: dict.txt.small
+      jieba_dict: dict.txt
   - optimize:
       optimize: false
 markdown_extensions:
