@@ -17,7 +17,9 @@ plugins:
       post_readtime: false
       archive: false
   - tags
-  - search
+  - search:
+      lang: zh
+      jieba_dict: dict.txt.small
   - optimize:
       optimize: false
 markdown_extensions:
