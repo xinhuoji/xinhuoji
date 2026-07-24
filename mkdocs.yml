@@ -1,0 +1,4 @@
+site_name: New Flame
+site_url: https://xinhuoji.netlify.app/
+theme:
+  name: material
