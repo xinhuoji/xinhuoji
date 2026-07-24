@@ -2,6 +2,7 @@ site_name: 新火集
 site_url: https://xinhuoji.netlify.app/
 theme:
   name: material
+  language: zh
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
