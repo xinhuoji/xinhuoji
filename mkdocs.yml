@@ -12,7 +12,8 @@ theme:
     - navigation.prune
     - navigation.indexes
 plugins:
-  - blog
+  - blog:
+      blog_dir: .
   - optimize:
       optimize: false
 markdown_extensions:
