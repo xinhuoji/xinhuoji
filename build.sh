@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-pip install mkdocs-material
+pip install zensical
 pip install jieba
-mkdocs build
+zensical build
