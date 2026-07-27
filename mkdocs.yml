@@ -34,8 +34,10 @@ nav:
     - index.md
     - 与薪火集相比: prosncons.md
   - 鲜花: 
-    - flower.md
+    - 鲜花.md
     - 白日梦: 046985/白日梦.md
+  - 干货: 干货.md
+  - 小作文: 小作文.md
 plugins:
   - meta
   - tags
