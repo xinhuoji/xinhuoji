@@ -12,18 +12,20 @@ theme:
     - navigation.prune
     - navigation.indexes
   palette:
-    - scheme: slate
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/eye
-        name: Dark mode
-      primary: blue grey
-      accent: deep blue
-    - scheme: default
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
       toggle:
-        icon: material/eye-outline
-        name: Light mode
-      primary: blue grey
-      accent: light blue
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   favicon: logo.png
   logo: logo.png
   font: false
