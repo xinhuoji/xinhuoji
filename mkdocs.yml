@@ -33,7 +33,7 @@ nav:
   - 主页:
     - index.md
     - 与薪火集相比: prosncons.md
-  - 鲜花:
+  - 鲜花: 
     - flower.md
     - 白日梦: 2026/1.md
 plugins:
