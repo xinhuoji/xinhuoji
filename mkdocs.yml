@@ -31,9 +31,10 @@ theme:
   font: false
 nav:
   - 主页: index.md
-  - test section:
+  - 测试板块:
     - test/index.md
     - Poem: test/1.md
+    - Flower: test/2.md
 plugins:
   - tags
   - search:
