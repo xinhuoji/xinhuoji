@@ -30,9 +30,7 @@ theme:
   logo: logo.png
   font: false
 nav:
-  - 主页:
-    - index.md
-    - 通过标签筛选: tags.md
+  - 主页: index.md
   - 测试板块:
     - test/index.md
     - Poem: test/1.md
