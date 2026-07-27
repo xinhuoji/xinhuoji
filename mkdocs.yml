@@ -30,7 +30,9 @@ theme:
   logo: logo.png
   font: false
 nav:
-  - 主页: index.md
+  - 主页:
+    - index.md
+    - 与薪火集相比: prosncons.md
   - 测试板块:
     - test/index.md
     - Poem: test/1.md
