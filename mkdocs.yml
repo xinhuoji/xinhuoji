@@ -37,6 +37,7 @@ nav:
     - flower.md
     - 白日梦: 046985/1.md
 plugins:
+  - meta
   - tags
   - search:
       lang: zh
