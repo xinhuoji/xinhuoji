@@ -25,6 +25,10 @@ theme:
       primary: blue grey
       accent: light blue
   logo: logo.png
+nav:
+  - test section:
+    - test/index.md
+    - Poem: test/1.md
 plugins:
   - tags
   - search:
