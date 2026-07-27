@@ -26,10 +26,6 @@ theme:
       accent: light blue
   logo: assets/logo.png
 plugins:
-  - blog:
-      blog_dir: .
-      post_readtime: false
-      archive: false
   - tags
   - search:
       lang: zh
