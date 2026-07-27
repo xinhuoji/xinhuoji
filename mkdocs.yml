@@ -18,8 +18,7 @@ theme:
         name: Dark mode
       primary: blue grey
       accent: deep blue
-    - 
-      scheme: default
+    - scheme: default
       toggle:
         icon: material/eye-outline
         name: Light mode
@@ -41,8 +40,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 extra_css:
-  - assets/css/extra.css
+  - css/extra.css
 extra_javascript:
   - js/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-
