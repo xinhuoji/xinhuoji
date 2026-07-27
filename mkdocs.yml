@@ -24,8 +24,7 @@ theme:
         name: Light mode
       primary: blue grey
       accent: light blue
-  icon:
-    logo: material/fire
+  favicon: logo.png
   logo: logo.png
 nav:
   - 主页: index.md
