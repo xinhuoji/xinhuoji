@@ -26,6 +26,7 @@ theme:
       accent: light blue
   favicon: logo.png
   logo: logo.png
+  font: false
 nav:
   - 主页: index.md
   - test section:
