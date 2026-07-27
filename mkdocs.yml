@@ -24,7 +24,7 @@ theme:
         name: Light mode
       primary: blue grey
       accent: light blue
-  logo: assets/logo.png
+  logo: logo.png
 plugins:
   - tags
   - search:
