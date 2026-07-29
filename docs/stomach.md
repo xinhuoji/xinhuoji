@@ -1,0 +1,5 @@
+## With all my body and soul, I dragged him into a flight of stairs. His trembling breath withered, but his eyes were tearful. I shouted: "What the hell aren't you doing?" He finally calmed down, and crossed his hand under the back of his head, then muttered: "You made my head swim! Didn't you detect the mental labor of me?" I gathered my wits and turned his stomach inside out. Of course, I worshiped his stepfather to avoid the taboos, and I saw the modest liquid. I moaned: "A stomach filled with bitter water. Why can't you terrify the overpowering consequence?" He replied simply: "But I'm paralyzed. Couldn't you give way to my jealous stomach?" As the dialog continues, dusk coming and dawn coming, time flied away as if it had rosy wings, and eventually I tumbled down to his stomach. He lost not a moment and murmured: "I can't bear this any more, can't you?" I sighed and said: "You'd better straighten up on your feet." He hugged his stomach to his breast and craved me. I'm of no consequence and bargaining with him.
+
+At length, what a eventful day!
+
+![](/stomach.png)
