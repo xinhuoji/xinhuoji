@@ -9,6 +9,7 @@
 
 * QQ 群 [1049486618](https://qm.qq.com/q/hy8cXRvGDK)
 * 邮箱 xinhuoji2026@163.com
+* 微信公众号 新火南开
 
 我们需要您提供以下信息：
 
